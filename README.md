@@ -9,7 +9,7 @@ The manuscript can be found <a href="https://arxiv.org/pdf/1908.09397.pdf"> here
 
 <h3> Matlab scripts </h3>
 
-The scripts used to analyse the Cyclo-octane data set and the Henneberg surface data set are:
+The scripts used to analyse the cyclo-octane data set and the Henneberg surface data set are:
 
 <ul>
 
@@ -34,7 +34,15 @@ PHvsMWComparison.m
 
 </ul>
 
-which compares our local persistent homology method to the local PCA approach used by Martin et al. <a href="#Martin2010">[2]</a>.
+which creates sets of singularity points identified in the cyclo-octane data set by both our local persistent homology method and the local PCA approach used by Martin et al. <a href="#Martin2010">[2]</a> for different local radii. The sets of singularity points can be used to compare the robustness to local radii of the two methods by running the script
+
+<p>
+<li>
+
+RadiusRobustnessHausdorff.m
+
+</ul>
+to reproduce Fig. 4 in our manuscript <a href="#GA">[1]</a>.
 
 
 <h3> Data sets </h3>
