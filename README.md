@@ -36,6 +36,8 @@ PHvsMWComparison.m
 
 which creates sets of singularity points identified in the cyclo-octane data set by both our local persistent homology method and the local PCA approach used by Martin et al. <a href="#Martin2010">[2]</a> for different local radii. The sets of singularity points can be used to compare the robustness to local radii of the two methods by running the script
 
+<ul>
+
 <p>
 <li>
 
