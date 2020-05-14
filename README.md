@@ -1,4 +1,4 @@
-# Geometric-Anomalies
+# Geometric Anomalies
 
 <h3> Project founder: </h3> Bernadette J. Stolz (for more information, see <a href="https://www.maths.ox.ac.uk/people/bernadette.stolz"> here</a>.)
   
