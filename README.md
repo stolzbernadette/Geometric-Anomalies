@@ -44,7 +44,7 @@ which creates sets of singularity points identified in the cyclo-octane data set
 RadiusRobustnessHausdorff.m
 
 </ul>
-to reproduce Fig. 4 in our manuscript <a href="#GA">[1]</a>.
+to reproduce Fig. 4 in our manuscript <a href="#GA">[1]</a>. The code requires the matlab function HausdorffDist.m by Zachary Danziger, which can be retrieved <a href="https://ch.mathworks.com/matlabcentral/fileexchange/26738-hausdorff-distance"> here</a>. 
 
 
 <h3> Data sets </h3>
