@@ -78,7 +78,7 @@ Note that we added the directories 'input' and 'output' to the ripser folder tha
 
 <p>
 <li>
-plot_barcodes.m: We use this Matlab function written by Nina Otter. It is available at her <a href="https://github.com/n-otter/PH-roadmap"> repository </a>. We retrieved it in 2017.
+plot_barcodes.m: We use this Matlab function written by Nina Otter. It is available at her <a href="https://github.com/n-otter/PH-roadmap"> repository</a>. We retrieved it in 2017.
 
 </ul>
 
