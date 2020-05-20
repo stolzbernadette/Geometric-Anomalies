@@ -47,7 +47,7 @@ RadiusRobustnessHausdorff.m
 to reproduce Fig. 4 in our manuscript <a href="#GA">[1]</a>. The code requires the matlab function HausdorffDist.m by Zachary Danziger, which can be retrieved <a href="https://ch.mathworks.com/matlabcentral/fileexchange/26738-hausdorff-distance"> here</a>. 
 
 
-<h3> Data sets </h3>
+<h3> Datasets </h3>
 
 The cyclo-octane dataset was introduced by Martin et al. <a href="#Martin2010">[2]</a> and consists of 6040 points in 24 dimensions. This data set is publicly available as part of the <a href="http://appliedtopology.github.io/javaplex/"> javaPlex software package</a>. The Henneberg surface dataset was kindly provided by Martin et al. <a href="#Martin2011">[3]</a> and it consists of 5456 points sampled from the Henneberg surface in 3 dimensions.
 
