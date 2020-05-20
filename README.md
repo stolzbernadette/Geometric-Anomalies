@@ -73,12 +73,12 @@ We include all functions, other sources of software and directories used by the 
 <ul>
 <p>
 <li>
-ripser: We use the software <a href="https://github.com/Ripser/ripser"> ripser</a> by Ulrich Bauer. 
-Note that we added the directories 'input' and 'output' to the ripser folder that are required by our script.
+ripser: We use the software <a href="https://github.com/Ripser/ripser"> ripser</a> by Ulrich Bauer, which we retrieved in 2017. 
+Note that we added the directories 'input' and 'output' to the ripser folder that are required for our scripts to run.
 
 <p>
 <li>
-plot_barcodes.m: We use this Matlab function written by Nina Otter. It is available at her <a href="https://github.com/n-otter/PH-roadmap"> repository </a>.
+plot_barcodes.m: We use this Matlab function written by Nina Otter. It is available at her <a href="https://github.com/n-otter/PH-roadmap"> repository </a>. We retrieved it in 2017.
 
 </ul>
 
