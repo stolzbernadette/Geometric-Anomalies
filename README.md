@@ -83,7 +83,7 @@ plot_barcodes.m: We use this Matlab function written by Nina Otter. It is availa
 </ul>
 
 <h3> References </h3>
-<a name="GA">[1]</a> Geometric anomaly detection in data. BJ Stolz, J Tanner, HA Harrington, V Nanda, <i>arXiv preprint arXiv: 1908.09397</i>, 2019.
+<a name="GA">[1]</a> Geometric anomaly detection in data. BJ Stolz, J Tanner, HA Harrington, V Nanda, <i>Proceedings of the National Academy of Sciences</i>, doi: 10.1073/pnas.2001741117, 2020.
 
 <a name="Martin2010">[2]</a> Topology of cyclo-octane energy landscape. S Martin, A Thompson, EA Coutsias, J-P Watson, <i>The Journal of Chemical Physics</i>, 2010, <b>132</b>:23.
 
